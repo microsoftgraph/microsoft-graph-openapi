@@ -21,7 +21,7 @@ Detailed documentation and other learning resources for Microsoft Graph can be f
 ## Contribute
 We value your feedback and contribution. Please report any issues at [Microsoft Graph OpenAPI issues](https://github.com/microsoftgraph/microsoft-graph-open-api-v3/issues)
 
-## TermsOfUse
+## Terms Of Use
 When you use the Microsoft Graph API, you agree to the [Microsoft Graph Terms of Use](https://aka.ms/msgraphtou) and the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
 
 ## Issues
